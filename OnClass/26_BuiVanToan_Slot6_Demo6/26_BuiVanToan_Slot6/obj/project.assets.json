@@ -2824,19 +2824,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bubui\\.nuget\\packages\\": {}
+    "C:\\Users\\VanToan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bubui\\Downloads\\PRN231\\26_BuiVanToan_Project\\26_BuiVanToan_Slot6_Demo6\\26_BuiVanToan_Slot6\\26_BuiVanToan_Slot6.csproj",
+      "projectUniqueName": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot6_Demo6\\26_BuiVanToan_Slot6\\26_BuiVanToan_Slot6.csproj",
       "projectName": "26_BuiVanToan_Slot6",
-      "projectPath": "C:\\Users\\Bubui\\Downloads\\PRN231\\26_BuiVanToan_Project\\26_BuiVanToan_Slot6_Demo6\\26_BuiVanToan_Slot6\\26_BuiVanToan_Slot6.csproj",
-      "packagesPath": "C:\\Users\\Bubui\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bubui\\Downloads\\PRN231\\26_BuiVanToan_Project\\26_BuiVanToan_Slot6_Demo6\\26_BuiVanToan_Slot6\\obj\\",
+      "projectPath": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot6_Demo6\\26_BuiVanToan_Slot6\\26_BuiVanToan_Slot6.csproj",
+      "packagesPath": "C:\\Users\\VanToan\\.nuget\\packages\\",
+      "outputPath": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot6_Demo6\\26_BuiVanToan_Slot6\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Bubui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\VanToan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2844,6 +2849,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2856,6 +2862,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2910,7 +2921,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

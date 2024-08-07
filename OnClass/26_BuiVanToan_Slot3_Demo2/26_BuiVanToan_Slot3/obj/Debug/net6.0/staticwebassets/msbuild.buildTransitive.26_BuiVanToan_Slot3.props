@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\26_BuiVanToan_Slot3.props" />
-</Project>

@@ -26,7 +26,6 @@
 
   <ItemGroup>
     <Folder Include="Db\Migrations\" />
-    <Folder Include="Dto\PlayerInstrument\" />
   </ItemGroup>
 
   <ItemGroup>

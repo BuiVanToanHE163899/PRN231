@@ -45,7 +45,8 @@ namespace _26_BuiVanToan_Slot3.Controllers
         {
             try
             {
-                var employees = _employeeService.GetEmployeeDetailsById(id); if (employees == null) return NotFound();
+                var employees = _employeeService.GetEmployeeDetailsById(id); 
+                if (employees == null) return NotFound();
                 return Ok(employees);
             }
             catch (Exception)

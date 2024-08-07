@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|d:\\downloads\\compressed\\prn231\\onclass\\26_buivantoan_slot3_demo3\\26_buivantoan_slot3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|solutionrelative:26_buivantoan_slot3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|d:\\downloads\\compressed\\prn231\\onclass\\26_buivantoan_slot3_demo3\\26_buivantoan_slot3\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|solutionrelative:26_buivantoan_slot3\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|d:\\downloads\\compressed\\prn231\\onclass\\26_buivantoan_slot3_demo3\\26_buivantoan_slot3\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|solutionrelative:26_buivantoan_slot3\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|d:\\downloads\\compressed\\prn231\\onclass\\26_buivantoan_slot3_demo3\\26_buivantoan_slot3\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|solutionrelative:26_buivantoan_slot3\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|d:\\downloads\\compressed\\prn231\\onclass\\26_buivantoan_slot3_demo3\\26_buivantoan_slot3\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|solutionrelative:26_buivantoan_slot3\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|d:\\downloads\\compressed\\prn231\\onclass\\26_buivantoan_slot3_demo3\\26_buivantoan_slot3\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|solutionrelative:26_buivantoan_slot3\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|d:\\downloads\\compressed\\prn231\\onclass\\26_buivantoan_slot3_demo3\\26_buivantoan_slot3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|solutionrelative:26_buivantoan_slot3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|d:\\downloads\\compressed\\prn231\\onclass\\26_buivantoan_slot3_demo3\\26_buivantoan_slot3\\viewmodels\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|solutionrelative:26_buivantoan_slot3\\viewmodels\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|d:\\downloads\\compressed\\prn231\\onclass\\26_buivantoan_slot3_demo3\\26_buivantoan_slot3\\migrations\\empdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|solutionrelative:26_buivantoan_slot3\\migrations\\empdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|d:\\downloads\\compressed\\prn231\\onclass\\26_buivantoan_slot3_demo3\\26_buivantoan_slot3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1912D6E-4216-46BC-82D5-B4E2E805AB5D}|26_BuiVanToan_Slot3\\26_BuiVanToan_Slot3.csproj|solutionrelative:26_buivantoan_slot3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Program.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Slot3\\Program.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Program.cs",
+              "RelativeToolTip": "26_BuiVanToan_Slot3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:25:47.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Slot3\\WeatherForecast.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\WeatherForecast.cs",
+              "RelativeToolTip": "26_BuiVanToan_Slot3\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:25:47.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Migrations\\EmpDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Slot3\\Migrations\\EmpDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Migrations\\EmpDbContextModelSnapshot.cs",
+              "RelativeToolTip": "26_BuiVanToan_Slot3\\Migrations\\EmpDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:25:47.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpDbContext.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\EmpDbContext.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Slot3\\EmpDbContext.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\EmpDbContext.cs",
+              "RelativeToolTip": "26_BuiVanToan_Slot3\\EmpDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:25:47.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Slot3\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "26_BuiVanToan_Slot3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T03:25:47.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Slot3\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "26_BuiVanToan_Slot3\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:25:47.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Slot3\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "26_BuiVanToan_Slot3\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:25:47.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Slot3\\Services\\IEmployeeService.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "26_BuiVanToan_Slot3\\Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:25:47.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\ViewModels\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Slot3\\ViewModels\\ResponseModel.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\ViewModels\\ResponseModel.cs",
+              "RelativeToolTip": "26_BuiVanToan_Slot3\\ViewModels\\ResponseModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:25:47.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Slot3\\Models\\Employees.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\OnClass\\26_BuiVanToan_Slot3_Demo3\\26_BuiVanToan_Slot3\\Models\\Employees.cs",
+              "RelativeToolTip": "26_BuiVanToan_Slot3\\Models\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:25:47.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

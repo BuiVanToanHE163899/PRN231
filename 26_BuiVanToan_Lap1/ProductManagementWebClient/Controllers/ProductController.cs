@@ -106,14 +106,17 @@ namespace ProductManagementWebClient.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult> Edit(int id, Product p)
+        public async Task<ActionResult> Edit(int id, ProductRequest p)
         {
             if (ModelState.IsValid)
             {
-                await client.PutAsJsonAsync($"{ProductApiUrl}/{id}", p);
+                HttpResponseMessage response = await client.PutAsJsonAsync($"{ProductApiUrl}/{p.ProductId}", p);
+
                 return RedirectToAction("Index");
             }
-
+            // ModelState is invalid, retrieve the categories again
+            List<Category> listCategories = await ApiHandler.DeserializeApiResponse<List<Category>>(CategoryApiUrl, HttpMethod.Get);
+            ViewData["Categories"] = listCategories;
             return View(p);
         }
 

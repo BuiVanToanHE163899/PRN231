@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace _26_BuiVanToan_BusinessObject
 {
@@ -10,6 +11,7 @@ namespace _26_BuiVanToan_BusinessObject
         [Required]
         [StringLength(40)]
         public string CategoryName { get; set; }
+        [JsonIgnore]
         public virtual ICollection<Product> Products { get; set; }
     }
 }

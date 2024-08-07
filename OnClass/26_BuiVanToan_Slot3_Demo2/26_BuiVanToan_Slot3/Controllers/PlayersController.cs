@@ -81,8 +81,7 @@ namespace _26_BuiVanToan_Slot3.Controllers
             return NoContent();
         }
 
-        // POST: api/Players
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        
         [HttpPost]
         public async Task<ActionResult<Player>> PostPlayer(Player player)
         {

@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using _26_BuiVanToan_Slot3.Dto.PlayerInstrument;
+using System.ComponentModel.DataAnnotations;
 
 namespace _26_BuiVanToan_Slot3.Dto.Player
 {
@@ -8,7 +9,7 @@ namespace _26_BuiVanToan_Slot3.Dto.Player
     {
         [Required]
         public string NickName { get; set; }
-        //[Required]
-        //public List<CreatePlayerInstrumentRequest> PlayerInstruments { get; set; }
+        [Required]
+        public List<CreatePlayerInstrumentRequest> PlayerInstruments { get; set; }
     }
 }

@@ -1,357 +1,357 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\",
+  "WorkspaceRootPath": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\order\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\order\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_repository\\imprep\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\imprep\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_dataaccess\\ordersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\ordersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_dataaccess\\26_buivantoan_dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\26_buivantoan_dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\myorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\myorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\myorder\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\myorder\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\myorder\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\myorder\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_repository\\imprep\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\imprep\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_repository\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_repository\\imprep\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\imprep\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_repository\\imprep\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\imprep\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_repository\\imprep\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\imprep\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_repository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\models\\postorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\models\\postorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\controllers\\myordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\controllers\\myordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_dataaccess\\ordersdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\ordersdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_dataaccess\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\controllers\\myordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\controllers\\myordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\order\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\order\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_repository\\imprep\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\imprep\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_dataaccess\\ordersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\ordersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_dataaccess\\26_buivantoan_dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\26_buivantoan_dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\myorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\myorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\myorder\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\myorder\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\myorder\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\myorder\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\order\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_repository\\imprep\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\imprep\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_repository\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_repository\\imprep\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\imprep\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_repository\\imprep\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\imprep\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_repository\\imprep\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\imprep\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_repository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\models\\postorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\models\\postorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_dataaccess\\ordersdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\ordersdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_dataaccess\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41030731-EBF1-4F3E-B521-46D707506E6C}|26_BuiVanToan_Repository\\26_BuiVanToan_Repository.csproj|solutionrelative:26_buivantoan_repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\estoreclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\estoreclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\estoreclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\estoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\estoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\estoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\models\\postproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\models\\postproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\models\\postproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\migrations\\20240313135211_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_businessobject\\migrations\\20240313135211_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{074B3DAA-C2A1-403F-B321-828FAAC6D204}|26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj|solutionrelative:26_buivantoan_businessobject\\migrations\\20240313135211_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreclient\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreclient\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7DA46029-0C32-480A-A47D-C39A299D1DFB}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\26_buivantoan_dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\26_buivantoan_dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7075B0BA-4CA9-4F68-8D06-DB410B5A67E4}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\models\\putmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\models\\putmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\models\\putmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\models\\postorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\models\\postorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\models\\postorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\prn231\\sourceonclass\\26_buivantoan_assignment03\\estoreapi\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|d:\\downloads\\compressed\\prn231\\26_buivantoan_assignment03\\estoreapi\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{193E7077-3B34-4260-8125-9E724DE35592}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -362,124 +362,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lockout.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
-              "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
-              "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T09:31:11.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Index.cshtml",
-              "RelativeDocumentMoniker": "eStoreClient\\Views\\Order\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Index.cshtml",
-              "RelativeToolTip": "eStoreClient\\Views\\Order\\Index.cshtml",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAAAA4AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-23T08:43:22.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObject\\MyDbContext.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\MyDbContext.cs",
-              "RelativeToolTip": "26_BuiVanToan_BusinessObject\\MyDbContext.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwBIAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T17:28:38.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Member.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Member.cs",
-              "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObject\\Member.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Member.cs",
-              "RelativeToolTip": "26_BuiVanToan_BusinessObject\\Member.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T17:28:08.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "eStoreAPI\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "eStoreAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA0wDEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T16:43:06.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T08:19:32.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAqwKEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T05:04:39.613Z",
-              "EditorCaption": ""
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Program.cs",
               "RelativeDocumentMoniker": "eStoreClient\\Program.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Program.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Program.cs",
               "RelativeToolTip": "eStoreClient\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAqwHAAAABDAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T08:20:40.534Z",
               "EditorCaption": ""
@@ -487,49 +384,183 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Lockout.cshtml.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
-              "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
-              "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "eStoreClient\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "eStoreClient\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T09:31:14.915Z",
+              "WhenOpened": "2024-03-11T06:05:17.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyOrderController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\MyOrderController.cs",
+              "RelativeDocumentMoniker": "eStoreClient\\Controllers\\MyOrderController.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\MyOrderController.cs",
+              "RelativeToolTip": "eStoreClient\\Controllers\\MyOrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T06:05:38.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Logout.cshtml.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
-              "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
-              "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "eStoreClient\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "eStoreClient\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T05:07:12.627Z",
+              "WhenOpened": "2024-03-11T06:06:50.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "eStoreAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "eStoreAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:43:27.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAA8wHYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:04:39.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "eStoreAPI\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "eStoreAPI\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAiAAAA",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T08:19:32.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "eStoreAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "eStoreAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA0wDEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T16:43:05.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T16:43:06.806Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Member.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObject\\Member.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Member.cs",
+              "RelativeToolTip": "26_BuiVanToan_BusinessObject\\Member.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:28:08.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObject\\MyDbContext.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\MyDbContext.cs",
+              "RelativeToolTip": "26_BuiVanToan_BusinessObject\\MyDbContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwBIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:28:38.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "eStoreClient\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "eStoreClient\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T08:43:22.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T09:31:11.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lockout.cshtml.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:31:14.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:07:12.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "eStoreAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "eStoreAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:43:05.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -537,11 +568,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -549,24 +580,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ProductDAO.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\ProductDAO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\ProductDAO.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_DataAccess\\ProductDAO.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\ProductDAO.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\ProductDAO.cs",
               "RelativeToolTip": "26_BuiVanToan_DataAccess\\ProductDAO.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAgwBkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T18:12:48.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T18:12:48.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -574,24 +604,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "eStoreClient\\ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "eStoreClient\\ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-22T04:52:52.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T04:52:52.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -599,11 +628,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -611,11 +640,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Report.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Report.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Report.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\Order\\Report.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Report.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Report.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\Order\\Report.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAD0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -623,23 +652,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "eStoreClient\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "eStoreClient\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T06:06:50.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_Repository\\IOrderRepository.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IOrderRepository.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IOrderRepository.cs",
               "RelativeToolTip": "26_BuiVanToan_Repository\\IOrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -647,11 +664,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -659,24 +676,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "OrdersDAO.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\OrdersDAO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\OrdersDAO.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_DataAccess\\OrdersDAO.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\OrdersDAO.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\OrdersDAO.cs",
               "RelativeToolTip": "26_BuiVanToan_DataAccess\\OrdersDAO.cs",
               "ViewState": "AQIAAGsAAAAAAAAAAAAiwIoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T18:12:50.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T18:12:50.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\OrderRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\OrderRepository.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_Repository\\ImpRep\\OrderRepository.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\OrderRepository.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\OrderRepository.cs",
               "RelativeToolTip": "26_BuiVanToan_Repository\\ImpRep\\OrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -684,11 +700,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\MyOrder\\Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\MyOrder\\Index.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\MyOrder\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\MyOrder\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\MyOrder\\Index.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\MyOrder\\Index.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAABQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -696,11 +712,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Detail.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\MyOrder\\Detail.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\MyOrder\\Detail.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\MyOrder\\Detail.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\MyOrder\\Detail.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\MyOrder\\Detail.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\MyOrder\\Detail.cshtml",
               "ViewState": "AQIAAGUAAAAAAAAAAAAmwI4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -708,11 +724,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\MyOrder\\Create.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\MyOrder\\Create.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\MyOrder\\Create.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\MyOrder\\Create.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\MyOrder\\Create.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\MyOrder\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -720,11 +736,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Products\\Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\Products\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\Products\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -732,11 +748,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "26_BuiVanToan_DataAccess.csproj",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj",
               "RelativeDocumentMoniker": "26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj",
               "RelativeToolTip": "26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -744,11 +760,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Products\\Create.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\Products\\Create.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Products\\Create.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\Products\\Create.cshtml",
               "ViewState": "AQIAACoAAAAAAAAAAAAAAGIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -756,11 +772,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Create.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Create.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\Order\\Create.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Create.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Create.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\Order\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -768,11 +784,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "Detail.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Detail.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Detail.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\Order\\Detail.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Detail.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Order\\Detail.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\Order\\Detail.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -780,11 +796,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "eStoreAPI\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "eStoreAPI\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -792,11 +808,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Program.cs",
               "RelativeDocumentMoniker": "eStoreAPI\\Program.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Program.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Program.cs",
               "RelativeToolTip": "eStoreAPI\\Program.cs",
               "ViewState": "AQIAADwAAAAAAAAAAAAAAEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -804,11 +820,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "MemberController.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\MemberController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\MemberController.cs",
               "RelativeDocumentMoniker": "eStoreAPI\\Controllers\\MemberController.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\MemberController.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\MemberController.cs",
               "RelativeToolTip": "eStoreAPI\\Controllers\\MemberController.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAEoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -816,11 +832,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "MemberRepository.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\MemberRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\MemberRepository.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_Repository\\ImpRep\\MemberRepository.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\MemberRepository.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\MemberRepository.cs",
               "RelativeToolTip": "26_BuiVanToan_Repository\\ImpRep\\MemberRepository.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAnwAUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -828,11 +844,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "IMemberRepository.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IMemberRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IMemberRepository.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_Repository\\IMemberRepository.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IMemberRepository.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IMemberRepository.cs",
               "RelativeToolTip": "26_BuiVanToan_Repository\\IMemberRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -840,11 +856,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "eStoreAPI\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "eStoreAPI\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAQwDAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -852,24 +868,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\ProductRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\ProductRepository.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_Repository\\ImpRep\\ProductRepository.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\ProductRepository.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\ProductRepository.cs",
               "RelativeToolTip": "26_BuiVanToan_Repository\\ImpRep\\ProductRepository.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAowAUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T18:09:52.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T18:09:52.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "OrderDetailRepository.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\OrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\OrderDetailRepository.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_Repository\\ImpRep\\OrderDetailRepository.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\OrderDetailRepository.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\OrderDetailRepository.cs",
               "RelativeToolTip": "26_BuiVanToan_Repository\\ImpRep\\OrderDetailRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -877,11 +892,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_Repository\\ImpRep\\CategoryRepository.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\CategoryRepository.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ImpRep\\CategoryRepository.cs",
               "RelativeToolTip": "26_BuiVanToan_Repository\\ImpRep\\CategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -889,11 +904,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\appsettings.json",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\appsettings.json",
               "RelativeDocumentMoniker": "eStoreClient\\appsettings.json",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\appsettings.json",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\appsettings.json",
               "RelativeToolTip": "eStoreClient\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -901,11 +916,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Products\\Edit.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\Products\\Edit.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Products\\Edit.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\Products\\Edit.cshtml",
               "ViewState": "AQIAACYAAAAAAAAAAAAkwDIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -913,11 +928,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AQIAAHcAAAAAAAAAAAAuwJ4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -925,11 +940,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "IOrderDetailRepository.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IOrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IOrderDetailRepository.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_Repository\\IOrderDetailRepository.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IOrderDetailRepository.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IOrderDetailRepository.cs",
               "RelativeToolTip": "26_BuiVanToan_Repository\\IOrderDetailRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -937,11 +952,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "RegisterConfirmation.cshtml.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
               "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
               "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAowBcAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -949,11 +964,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "RegisterConfirmation.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
               "RelativeToolTip": "eStoreClient\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -961,11 +976,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "PostOrder.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PostOrder.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PostOrder.cs",
               "RelativeDocumentMoniker": "eStoreAPI\\Models\\PostOrder.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PostOrder.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PostOrder.cs",
               "RelativeToolTip": "eStoreAPI\\Models\\PostOrder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -973,11 +988,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Order.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Order.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObject\\Order.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Order.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Order.cs",
               "RelativeToolTip": "26_BuiVanToan_BusinessObject\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -985,11 +1000,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -997,11 +1012,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1009,11 +1024,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1021,11 +1036,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1033,11 +1048,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "UserRoles.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Models\\UserRoles.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Models\\UserRoles.cs",
               "RelativeDocumentMoniker": "eStoreClient\\Models\\UserRoles.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Models\\UserRoles.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Models\\UserRoles.cs",
               "RelativeToolTip": "eStoreClient\\Models\\UserRoles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1046,34 +1061,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 57,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "eStoreClient\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "eStoreClient\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T06:05:17.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "MyOrderController.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\MyOrderController.cs",
-              "RelativeDocumentMoniker": "eStoreClient\\Controllers\\MyOrderController.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\MyOrderController.cs",
-              "RelativeToolTip": "eStoreClient\\Controllers\\MyOrderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T06:05:38.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1081,11 +1072,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "eStoreClient\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "eStoreClient\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1093,11 +1084,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "eStoreClient\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "eStoreClient\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1105,11 +1096,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "eStoreClient\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "eStoreClient\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAPUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1117,11 +1108,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "eStoreClient\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "eStoreClient\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1129,11 +1120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "00000000000000_CreateIdentitySchema.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
               "RelativeDocumentMoniker": "eStoreClient\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
               "RelativeToolTip": "eStoreClient\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1141,11 +1132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\appsettings.json",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\appsettings.json",
               "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObject\\appsettings.json",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\appsettings.json",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\appsettings.json",
               "RelativeToolTip": "26_BuiVanToan_BusinessObject\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -1153,11 +1144,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "OrdersDetailDAO.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\OrdersDetailDAO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\OrdersDetailDAO.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_DataAccess\\OrdersDetailDAO.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\OrdersDetailDAO.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\OrdersDetailDAO.cs",
               "RelativeToolTip": "26_BuiVanToan_DataAccess\\OrdersDetailDAO.cs",
               "ViewState": "AQIAAHkAAAAAAAAAAAAawIcAAABtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1165,11 +1156,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Category.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Category.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObject\\Category.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Category.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Category.cs",
               "RelativeToolTip": "26_BuiVanToan_BusinessObject\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1177,11 +1168,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "OrderDetail.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\OrderDetail.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\OrderDetail.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObject\\OrderDetail.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\OrderDetail.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\OrderDetail.cs",
               "RelativeToolTip": "26_BuiVanToan_BusinessObject\\OrderDetail.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1189,11 +1180,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Product.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Product.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObject\\Product.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Product.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Product.cs",
               "RelativeToolTip": "26_BuiVanToan_BusinessObject\\Product.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAgwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1201,11 +1192,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "MemberDAO.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\MemberDAO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\MemberDAO.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_DataAccess\\MemberDAO.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\MemberDAO.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\MemberDAO.cs",
               "RelativeToolTip": "26_BuiVanToan_DataAccess\\MemberDAO.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAtwCYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1213,23 +1204,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "eStoreAPI\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "eStoreAPI\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAewB0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T16:43:27.811Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 69,
               "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IProductRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IProductRepository.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_Repository\\IProductRepository.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IProductRepository.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\IProductRepository.cs",
               "RelativeToolTip": "26_BuiVanToan_Repository\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1239,9 +1218,9 @@
               "$type": "Document",
               "DocumentIndex": 71,
               "Title": "OrderDetailController.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\OrderDetailController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\OrderDetailController.cs",
               "RelativeDocumentMoniker": "eStoreAPI\\Controllers\\OrderDetailController.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Controllers\\OrderDetailController.cs",
               "RelativeToolTip": "eStoreAPI\\Controllers\\OrderDetailController.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAQwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1251,9 +1230,9 @@
               "$type": "Document",
               "DocumentIndex": 70,
               "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_Repository\\ICategoryRepository.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_Repository\\ICategoryRepository.cs",
               "RelativeToolTip": "26_BuiVanToan_Repository\\ICategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1263,9 +1242,9 @@
               "$type": "Document",
               "DocumentIndex": 72,
               "Title": "eStoreClient.csproj",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\eStoreClient.csproj",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\eStoreClient.csproj",
               "RelativeDocumentMoniker": "eStoreClient\\eStoreClient.csproj",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\eStoreClient.csproj",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\eStoreClient.csproj",
               "RelativeToolTip": "eStoreClient\\eStoreClient.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -1275,9 +1254,9 @@
               "$type": "Document",
               "DocumentIndex": 73,
               "Title": "eStoreAPI.csproj",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\eStoreAPI.csproj",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\eStoreAPI.csproj",
               "RelativeDocumentMoniker": "eStoreAPI\\eStoreAPI.csproj",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\eStoreAPI.csproj",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\eStoreAPI.csproj",
               "RelativeToolTip": "eStoreAPI\\eStoreAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -1287,9 +1266,9 @@
               "$type": "Document",
               "DocumentIndex": 74,
               "Title": "PostProduct.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PostProduct.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PostProduct.cs",
               "RelativeDocumentMoniker": "eStoreAPI\\Models\\PostProduct.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PostProduct.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PostProduct.cs",
               "RelativeToolTip": "eStoreAPI\\Models\\PostProduct.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1299,9 +1278,9 @@
               "$type": "Document",
               "DocumentIndex": 75,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\appsettings.json",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\appsettings.json",
               "RelativeDocumentMoniker": "eStoreAPI\\appsettings.json",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\appsettings.json",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\appsettings.json",
               "RelativeToolTip": "eStoreAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -1311,9 +1290,9 @@
               "$type": "Document",
               "DocumentIndex": 76,
               "Title": "20240313135211_InitialDB.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Migrations\\20240313135211_InitialDB.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Migrations\\20240313135211_InitialDB.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObject\\Migrations\\20240313135211_InitialDB.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Migrations\\20240313135211_InitialDB.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_BusinessObject\\Migrations\\20240313135211_InitialDB.cs",
               "RelativeToolTip": "26_BuiVanToan_BusinessObject\\Migrations\\20240313135211_InitialDB.cs",
               "ViewState": "AQIAALsAAAAAAAAAAAAgwG8AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1323,9 +1302,9 @@
               "$type": "Document",
               "DocumentIndex": 77,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "eStoreClient\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "eStoreClient\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1335,9 +1314,9 @@
               "$type": "Document",
               "DocumentIndex": 78,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "eStoreClient\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Properties\\launchSettings.json",
               "RelativeToolTip": "eStoreClient\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -1347,9 +1326,9 @@
               "$type": "Document",
               "DocumentIndex": 79,
               "Title": "serviceDependencies.json",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Properties\\serviceDependencies.json",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Properties\\serviceDependencies.json",
               "RelativeDocumentMoniker": "eStoreClient\\Properties\\serviceDependencies.json",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreClient\\Properties\\serviceDependencies.json",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreClient\\Properties\\serviceDependencies.json",
               "RelativeToolTip": "eStoreClient\\Properties\\serviceDependencies.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -1359,9 +1338,9 @@
               "$type": "Document",
               "DocumentIndex": 80,
               "Title": "CategoryDAO.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\CategoryDAO.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\CategoryDAO.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_DataAccess\\CategoryDAO.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\CategoryDAO.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\26_BuiVanToan_DataAccess\\CategoryDAO.cs",
               "RelativeToolTip": "26_BuiVanToan_DataAccess\\CategoryDAO.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAowAcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1371,9 +1350,9 @@
               "$type": "Document",
               "DocumentIndex": 81,
               "Title": "UserRoles.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\UserRoles.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\UserRoles.cs",
               "RelativeDocumentMoniker": "eStoreAPI\\Models\\UserRoles.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\UserRoles.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\UserRoles.cs",
               "RelativeToolTip": "eStoreAPI\\Models\\UserRoles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1383,9 +1362,9 @@
               "$type": "Document",
               "DocumentIndex": 82,
               "Title": "Response.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\Response.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\Response.cs",
               "RelativeDocumentMoniker": "eStoreAPI\\Models\\Response.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\Response.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\Response.cs",
               "RelativeToolTip": "eStoreAPI\\Models\\Response.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1395,9 +1374,9 @@
               "$type": "Document",
               "DocumentIndex": 83,
               "Title": "RegisterModel.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\RegisterModel.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\RegisterModel.cs",
               "RelativeDocumentMoniker": "eStoreAPI\\Models\\RegisterModel.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\RegisterModel.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\RegisterModel.cs",
               "RelativeToolTip": "eStoreAPI\\Models\\RegisterModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1407,9 +1386,9 @@
               "$type": "Document",
               "DocumentIndex": 84,
               "Title": "PutMember.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PutMember.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PutMember.cs",
               "RelativeDocumentMoniker": "eStoreAPI\\Models\\PutMember.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PutMember.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PutMember.cs",
               "RelativeToolTip": "eStoreAPI\\Models\\PutMember.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1419,9 +1398,9 @@
               "$type": "Document",
               "DocumentIndex": 85,
               "Title": "PostOrderDetail.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PostOrderDetail.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PostOrderDetail.cs",
               "RelativeDocumentMoniker": "eStoreAPI\\Models\\PostOrderDetail.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PostOrderDetail.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\PostOrderDetail.cs",
               "RelativeToolTip": "eStoreAPI\\Models\\PostOrderDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1431,9 +1410,9 @@
               "$type": "Document",
               "DocumentIndex": 86,
               "Title": "LoginModel.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\LoginModel.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "eStoreAPI\\Models\\LoginModel.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\LoginModel.cs",
               "RelativeToolTip": "eStoreAPI\\Models\\LoginModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1443,59 +1422,13 @@
               "$type": "Document",
               "DocumentIndex": 87,
               "Title": "Class.cs",
-              "DocumentMoniker": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\Class.cs",
+              "DocumentMoniker": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\Class.cs",
               "RelativeDocumentMoniker": "eStoreAPI\\Models\\Class.cs",
-              "ToolTip": "D:\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\Class.cs",
+              "ToolTip": "D:\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Assignment03\\eStoreAPI\\Models\\Class.cs",
               "RelativeToolTip": "eStoreAPI\\Models\\Class.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T16:57:32.36Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }

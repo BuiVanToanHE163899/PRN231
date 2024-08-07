@@ -9,7 +9,7 @@
 
         public DateTime JoinedDate { get; set; }
 
-        //public List<GetPlayerInstrumentResponse> PlayerInstruments { get; set; }
+        public List<GetPlayerInstrumentResponse> PlayerInstruments { get; set; }
     }
 
 }

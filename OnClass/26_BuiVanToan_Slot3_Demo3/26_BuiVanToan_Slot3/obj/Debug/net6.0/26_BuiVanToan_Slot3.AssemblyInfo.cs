@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("26_BuiVanToan_Slot3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5702cd01e1fd54e018145ac65799b498ab944e35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba8328ad9b4ff05716073463d98cc31b48a3f2c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("26_BuiVanToan_Slot3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("26_BuiVanToan_Slot3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

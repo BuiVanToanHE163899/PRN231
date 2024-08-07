@@ -15,8 +15,7 @@ namespace _26_BuiVanToan_BusinessObject
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var builder = new ConfigurationBuilder()
-                .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+                .AddJsonFile("appsettings.json");
             IConfigurationRoot configuration = builder.Build();
             optionsBuilder.UseSqlServer(configuration.GetConnectionString("DefaultConnection"));
         }
