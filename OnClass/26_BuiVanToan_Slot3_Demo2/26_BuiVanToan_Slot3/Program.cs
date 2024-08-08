@@ -1,5 +1,4 @@
-using _26_BuiVanToan_Slot3;
-using Microsoft.EntityFrameworkCore;
+using _26_BuiVanToan_Slot3.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

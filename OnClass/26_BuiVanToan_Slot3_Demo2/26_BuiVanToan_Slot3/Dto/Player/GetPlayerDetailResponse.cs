@@ -1,4 +1,6 @@
-﻿namespace _26_BuiVanToan_Slot3.Dto.Player
+﻿using _26_BuiVanToan_Slot3.Dto.PlayerInstrument;
+using _26_BuiVanToan_Slot3.Dto.PlayerInstrument;
+namespace _26_BuiVanToan_Slot3.Dto.Player
 {
 
 

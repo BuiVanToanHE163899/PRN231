@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using _26_BuiVanToan_Slot3;
 using _26_BuiVanToan_Slot3.Models;
 
 namespace _26_BuiVanToan_Slot3.Controllers

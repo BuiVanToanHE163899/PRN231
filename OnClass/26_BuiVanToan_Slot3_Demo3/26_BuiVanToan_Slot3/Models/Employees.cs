@@ -1,10 +1,12 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace _26_BuiVanToan_Slot3.Models
 {
     public class Employees
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int EmployeeId
         {
             get;
