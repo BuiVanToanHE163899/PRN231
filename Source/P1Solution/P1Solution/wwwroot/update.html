@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Update Product</title>
+    <meta name="viewport" content="width=device-width" />
+    <link href="lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="lib/jquery/dist/jquery.js"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        <h2>update a Product <a href="index.html" class="btn btn-se btn-secondary">Back</a></h2>
+        <div class=" form-group">
+            <label for="Id"></label>
+            <input type="text" class="form-control" id="Id" readonly />
+        </div>
+        <div class="form-group">
+            <label for="Name">Product Name: </label>
+            <input type="text" class="form-control" id="Name" />
+        </div>
+        <div class="form-group">
+            <label for="StartLocation"> Quantity Per Unit </label>
+            <input type="text" class="form-control" id="Quantity" />
+        </div>
+        <div class="form-group">
+            <label for="EndLocation"> Unit Price: </label>
+            <input type="text" class="form-control" id="Price" />
+        </div>
+        <div class="form-group">
+            <label for="EndLocation"> Unit in Stock: </label>
+            <input type="text" class="form-control" id="Stock" />
+        </div>
+        <div class="form-group">
+            <label for="EndLocation"> Unit on Order: </label>
+            <input type="text" class="form-control" id="Order" />
+        </div>
+        <div class="text-center panel-b">
+            <button type="submit" class="btn btn-sm btn-primary" id="UpdateButton">Update</button>
+        </div>
+        <div style="display:none" id="resultDiv">
+            <h3>Reservation</h3>
+            <table class="table table-sm table-striped table-bordered m-2">
+                <thead>
+                    <tr><th>ID</th><th>Product Name</th><th>Quantity Per Unit </th>
+                    <th>Unit Price</th><th>Unit in Stock</th><th>Unit on Order</th></tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            GetReservation();
+            function GetReservation() {
+                let params = (new URL(document.location)).searchParams
+                let id = params.get("id");
+                $.ajax({
+                    url: "https://localhost:5000/api/controler/GetProductById/" + id,
+                    type: "get",
+                    contentType: "application/json",
+                    success: function (result, status, xhr) {
+                        $("#Id").val(result["productId"]);
+                        $("#Name").val(result["productName"]);
+                        $("#Quantity").val(result["quantityPerUnit"]);
+                        $("#Price").val(result["unitPrice"]);
+                        $("#Stock").val(result["unitsInStock"]);
+                        $("#Order").val(result["unitsOnOrder"]);
+                    },
+                    error: function (xhr, status, error) {
+                        console.log(xhr)
+                    }
+                });
+            }
+            $("#UpdateButton").click(function (e) {
+                let params = (new URL(document.location)).searchParams;
+                let id = params.get("id"),
+                    data = new FormData();
+                data.append("ProductId", $("#Id").val());
+                data.append("ProductName", $("#Name").val());
+                data.append("QuantityPerUnit", $("#Quantity").val());
+                data.append("UnitPrice", $("#Price").val());
+                data.append("UnitsInStock", $("#Stock").val());
+                data.append("UnitsOnOrder", $("#Order").val());
+                $.ajax({
+                    url: "https://localhost:5000/api/controler/UpdateProduct",
+                    type: "put",
+                    data: data,
+                    processData: false,
+                    contentType: false,
+                    success: function (result, status, xhr) {
+                        var str = "<tr><td>" + result["productId"] + "</td><td>" + result["productName"] + "</td><td>" +
+                            result["quantityPerUnit"] + "</td> <td>" + result["unitPrice"] + "</td>" +
+                            "< td > " + result["unitsInStock"] + "</td > <td> " + result["unitsOnOrder"] + "</td>" +
+                            "</tr > ";
+                        $("table tbody").append(str)
+                        $("#resultDiv").show();
+                    },
+                    error: function (xhr, status, error) {
+                        console.log(xhr)
+                    }
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>
+

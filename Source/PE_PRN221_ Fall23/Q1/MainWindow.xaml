@@ -1,0 +1,72 @@
+﻿<Window x:Class="Q1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Q1"
+        mc:Ignorable="d"
+        Title="StarWindow" Height="450" Width="800">
+    <DockPanel>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Width="300" Margin="0,39,0,25" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+
+                <TextBlock Text="Star's info" TextWrapping="Wrap" FontWeight="Bold" FontSize="20"/>
+
+                <TextBlock Text="Star Name" FontWeight="SemiBold" TextWrapping="Wrap" Margin="10,20,0,10" Grid.Row="1"/>
+                <TextBox Name="txtName" Width="180" Margin="70,20,0,0" Grid.Row="1"/>
+
+                <TextBlock Text="Dob" FontWeight="SemiBold" TextWrapping="Wrap" Margin="10,20,0,10" Grid.Row="2"/>
+                <DatePicker Name="dpDob" Width="180" Margin="70,20,0,0" Grid.Row="2"/>
+
+                <TextBlock Text="Description" FontWeight="SemiBold" TextWrapping="Wrap" Margin="10,20,0,10" Grid.Row="3"/>
+                <TextBox Name="txtDesc" Width="180" Margin="70,20,0,0" Grid.Row="3"/>
+
+                <TextBlock Text="Is male" FontWeight="SemiBold" TextWrapping="Wrap" Margin="10,20,0,10" Grid.Row="4"/>
+                <CheckBox Name="checkIsMale" IsChecked="True" Width="180" Margin="70,20,0,0" Grid.Row="4"/>
+
+                <TextBlock Text="Nationality" FontWeight="SemiBold" TextWrapping="Wrap" Margin="10,20,0,10" Grid.Row="5"/>
+                <TextBox Name="txtNational" Width="180" Margin="70,20,0,0" Grid.Row="5"/>
+
+                <TextBlock FontWeight="SemiBold" TextWrapping="Wrap" Margin="10,20,0,10" Grid.Row="6"/>
+                <Button Content="Add To List" Width="180" Margin="70,20,0,0" Grid.Row="6" Click="Button_Click"/>
+
+            </Grid>
+            <Grid Grid.Column="1" Height="NaN" Margin="0,0,-460,25" Width="NaN">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="0" Height="NaN" Margin="0,29,0,0">
+                    <ListBox Height="380" x:Name="listStars" Width="565">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="{Binding Name}" Margin="0,0,10,0"/>
+                                    <TextBlock Text="{Binding Dob, StringFormat={}{0:MM/dd/yyyy}}" Margin="0,0,10,0"/>
+                                    <TextBlock Text="{Binding Description}" Margin="0,0,10,0"/>
+                                    <TextBlock Text="{Binding Male}"/>
+                                    <TextBlock Text="{Binding Nationality}" Margin="0,0,10,0"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </StackPanel>
+                <Button Grid.Row="1" Content="Send to server" Height="30" Click="Button_Click_1"></Button>
+            </Grid>
+        </Grid>
+    </DockPanel>
+</Window>

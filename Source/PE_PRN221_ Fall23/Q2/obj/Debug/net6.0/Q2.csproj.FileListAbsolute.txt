@@ -1,0 +1,228 @@
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\appsettings.json
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Q2.exe
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Q2.deps.json
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Q2.runtimeconfig.json
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Q2.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Q2.pdb
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\Q2.csproj.AssemblyReference.cache
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\Q2.AssemblyInfoInputs.cache
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\Q2.AssemblyInfo.cs
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\Q2.csproj.CoreCompileInputs.cache
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\Q2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\Q2.RazorAssemblyInfo.cache
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\Q2.RazorAssemblyInfo.cs
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\staticwebassets\msbuild.Q2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\staticwebassets\msbuild.build.Q2.props
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Q2.props
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Q2.props
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\scopedcss\bundle\Q2.styles.css
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\Q2.csproj.CopyComplete
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\Q2.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\refint\Q2.dll
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\Q2.pdb
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\Q2.genruntimeconfig.cache
+C:\Users\chjen\Documents\Zalo Received Files\PT10ttt\PT10ttt\PE_PRN221_GivenServerApp\Q2\obj\Debug\net6.0\ref\Q2.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\appsettings.json
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Q2.exe
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Q2.deps.json
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Q2.runtimeconfig.json
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Q2.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Q2.pdb
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.AssemblyInfo.cs
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.RazorAssemblyInfo.cache
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.RazorAssemblyInfo.cs
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets\msbuild.Q2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets\msbuild.build.Q2.props
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Q2.props
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Q2.props
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\scopedcss\bundle\Q2.styles.css
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.csproj.CopyComplete
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\refint\Q2.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.pdb
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.genruntimeconfig.cache
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\ref\Q2.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\appsettings.Development.json
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\appsettings.json
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Q2.exe
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Q2.deps.json
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Q2.runtimeconfig.json
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Q2.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Q2.pdb
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Humanizer.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Text.Json.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.csproj.AssemblyReference.cache
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.AssemblyInfoInputs.cache
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.AssemblyInfo.cs
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.csproj.CoreCompileInputs.cache
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.MvcApplicationPartsAssemblyInfo.cache
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.RazorAssemblyInfo.cache
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.RazorAssemblyInfo.cs
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets\msbuild.Q2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets\msbuild.build.Q2.props
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Q2.props
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Q2.props
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets.build.json
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\staticwebassets.development.json
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\scopedcss\bundle\Q2.styles.css
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\refint\Q2.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.pdb
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.genruntimeconfig.cache
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\ref\Q2.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q2\obj\Debug\net6.0\Q2.csproj.Up2Date

@@ -1,0 +1,43 @@
+﻿@page
+@using Q2.Models;
+@model Q2.Pages.Schedule.ListModel
+@{
+}
+<style>
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: center;
+        padding: 8px;
+    }
+</style>
+<form method="get">
+    <div class="d-flex">
+        <input type="date" name="date" value="@(((DateTime)ViewData["datenow"]).ToString("yyyy-MM-dd"))" style="height:30px"/>
+        <button type="submit" style="height:30px">Get Schedule</button>
+    </div>
+</form>
+<p style="font-size:40px; font-weight:bold">Screening schedule on @(((DateTime)ViewData["datenow"]).ToString("MM/dd/yyyy"))</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ScheduleId</th>
+            <th>Room</th>
+            <th>TimeSlot</th>
+            <th>Movie</th>
+            <th>Note</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var s in ViewData["schedules"] as List<Schedule>)
+        {
+            <tr>
+                <td>@s.Id</td>
+                <td>@s.Room.Title</td>
+                <td>@s.TimeSlot.StartTime - @s.TimeSlot.EndTime</td>
+                <td><a href="/Movie/Index?id=@s.MovieId">@s.Movie.Title</a></td>
+                <td>@s.Note</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,42 @@
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\bin\Debug\net6.0-windows\Q1.exe
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\bin\Debug\net6.0-windows\Q1.deps.json
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\bin\Debug\net6.0-windows\Q1.runtimeconfig.json
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\bin\Debug\net6.0-windows\Q1.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\bin\Debug\net6.0-windows\Q1.pdb
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1_MarkupCompile.cache
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1_MarkupCompile.lref
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.g.resources
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.AssemblyInfo.cs
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\refint\Q1.dll
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.pdb
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.genruntimeconfig.cache
+C:\Users\asus\Documents\Zalo Received Files\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\ref\Q1.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\bin\Debug\net6.0-windows\Q1.exe
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\bin\Debug\net6.0-windows\Q1.deps.json
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\bin\Debug\net6.0-windows\Q1.runtimeconfig.json
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\bin\Debug\net6.0-windows\Q1.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\bin\Debug\net6.0-windows\Q1.pdb
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.csproj.AssemblyReference.cache
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\App.g.cs
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1_MarkupCompile.cache
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1_MarkupCompile.lref
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\MainWindow.baml
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.g.resources
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.AssemblyInfoInputs.cache
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.AssemblyInfo.cs
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.csproj.CoreCompileInputs.cache
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\refint\Q1.dll
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.pdb
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\Q1.genruntimeconfig.cache
+E:\ki 7\PE_thithu\PE_PRN221_ Fall23\Q1\obj\Debug\net6.0-windows\ref\Q1.dll

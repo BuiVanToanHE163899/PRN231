@@ -1,0 +1,142 @@
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\appsettings.Development.json
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\appsettings.json
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\P1Solution.exe
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\P1Solution.deps.json
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\P1Solution.runtimeconfig.json
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\P1Solution.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\P1Solution.pdb
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\AutoMapper.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Humanizer.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.csproj.AssemblyReference.cache
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.GeneratedMSBuildEditorConfig.editorconfig
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.AssemblyInfoInputs.cache
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.AssemblyInfo.cs
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.csproj.CoreCompileInputs.cache
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.MvcApplicationPartsAssemblyInfo.cs
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.MvcApplicationPartsAssemblyInfo.cache
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets\msbuild.P1Solution.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets\msbuild.build.P1Solution.props
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.P1Solution.props
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.P1Solution.props
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets.pack.json
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets.build.json
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets.development.json
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\scopedcss\bundle\P1Solution.styles.css
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\refint\P1Solution.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.pdb
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.genruntimeconfig.cache
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\ref\P1Solution.dll
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.csproj.CopyComplete
+E:\CF\PRN231\Example\Paper 1\P1Solution\P1Solution\bin\Debug\net6.0\P1Solution.staticwebassets.runtime.json
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.csproj.AssemblyReference.cache
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.AssemblyInfoInputs.cache
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.AssemblyInfo.cs
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.csproj.CoreCompileInputs.cache
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.dll
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\refint\P1Solution.dll
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.pdb
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\appsettings.Development.json
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\appsettings.json
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\P1Solution.staticwebassets.runtime.json
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\P1Solution.exe
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\P1Solution.deps.json
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\P1Solution.runtimeconfig.json
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\P1Solution.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\P1Solution.pdb
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\AutoMapper.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Humanizer.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\P1Solution\P1Solution\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets.build.json
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets.development.json
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets\msbuild.P1Solution.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets\msbuild.build.P1Solution.props
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.P1Solution.props
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.P1Solution.props
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\scopedcss\bundle\P1Solution.styles.css
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.csproj.Up2Date
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\P1Solution.genruntimeconfig.cache
+D:\Documents\P1Solution\P1Solution\obj\Debug\net6.0\ref\P1Solution.dll

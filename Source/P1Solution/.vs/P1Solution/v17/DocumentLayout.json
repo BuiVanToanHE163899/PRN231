@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\P1Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|d:\\documents\\p1solution\\p1solution\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|solutionrelative:p1solution\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|d:\\documents\\p1solution\\p1solution\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|solutionrelative:p1solution\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|d:\\documents\\p1solution\\p1solution\\pages\\orders.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|solutionrelative:p1solution\\pages\\orders.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|d:\\documents\\p1solution\\p1solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|solutionrelative:p1solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|d:\\documents\\p1solution\\p1solution\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|solutionrelative:p1solution\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|d:\\documents\\p1solution\\p1solution\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|solutionrelative:p1solution\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|d:\\documents\\p1solution\\p1solution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|solutionrelative:p1solution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|d:\\documents\\p1solution\\p1solution\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|solutionrelative:p1solution\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|d:\\documents\\p1solution\\p1solution\\models\\prn231_p1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|solutionrelative:p1solution\\models\\prn231_p1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|d:\\documents\\p1solution\\p1solution\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|solutionrelative:p1solution\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|d:\\documents\\p1solution\\p1solution\\p1solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|solutionrelative:p1solution\\p1solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|d:\\documents\\p1solution\\p1solution\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{714B1F99-25B5-4B64-AE5E-AB8B8D6FE675}|P1Solution\\P1Solution.csproj|solutionrelative:p1solution\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\P1Solution\\P1Solution\\Program.cs",
+              "RelativeDocumentMoniker": "P1Solution\\Program.cs",
+              "ToolTip": "D:\\Documents\\P1Solution\\P1Solution\\Program.cs",
+              "RelativeToolTip": "P1Solution\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAWwBgAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:18:57.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Documents\\P1Solution\\P1Solution\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "P1Solution\\Models\\Category.cs",
+              "ToolTip": "D:\\Documents\\P1Solution\\P1Solution\\Models\\Category.cs",
+              "RelativeToolTip": "P1Solution\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:44:29.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Documents\\P1Solution\\P1Solution\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "P1Solution\\Models\\Order.cs",
+              "ToolTip": "D:\\Documents\\P1Solution\\P1Solution\\Models\\Order.cs",
+              "RelativeToolTip": "P1Solution\\Models\\Order.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:43:41.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PRN231_P1Context.cs",
+              "DocumentMoniker": "D:\\Documents\\P1Solution\\P1Solution\\Models\\PRN231_P1Context.cs",
+              "RelativeDocumentMoniker": "P1Solution\\Models\\PRN231_P1Context.cs",
+              "ToolTip": "D:\\Documents\\P1Solution\\P1Solution\\Models\\PRN231_P1Context.cs",
+              "RelativeToolTip": "P1Solution\\Models\\PRN231_P1Context.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:31:13.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\P1Solution\\P1Solution\\appsettings.json",
+              "RelativeDocumentMoniker": "P1Solution\\appsettings.json",
+              "ToolTip": "D:\\Documents\\P1Solution\\P1Solution\\appsettings.json",
+              "RelativeToolTip": "P1Solution\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T04:31:06.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "D:\\Documents\\P1Solution\\P1Solution\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "P1Solution\\Mapper\\AutoMapper.cs",
+              "ToolTip": "D:\\Documents\\P1Solution\\P1Solution\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "P1Solution\\Mapper\\AutoMapper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:20:39.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "orders.html",
+              "DocumentMoniker": "D:\\Documents\\P1Solution\\P1Solution\\Pages\\orders.html",
+              "RelativeDocumentMoniker": "P1Solution\\Pages\\orders.html",
+              "ToolTip": "D:\\Documents\\P1Solution\\P1Solution\\Pages\\orders.html",
+              "RelativeToolTip": "P1Solution\\Pages\\orders.html",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAE0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-13T04:18:57.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Documents\\P1Solution\\P1Solution\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "P1Solution\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Documents\\P1Solution\\P1Solution\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "P1Solution\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:18:57.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\Documents\\P1Solution\\P1Solution\\Models\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "P1Solution\\Models\\OrderDTO.cs",
+              "ToolTip": "D:\\Documents\\P1Solution\\P1Solution\\Models\\OrderDTO.cs",
+              "RelativeToolTip": "P1Solution\\Models\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:18:57.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Documents\\P1Solution\\P1Solution\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "P1Solution\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Documents\\P1Solution\\P1Solution\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "P1Solution\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAE0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:18:57.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Documents\\P1Solution\\P1Solution\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "P1Solution\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Documents\\P1Solution\\P1Solution\\Properties\\launchSettings.json",
+              "RelativeToolTip": "P1Solution\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T04:18:57.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "P1Solution.csproj",
+              "DocumentMoniker": "D:\\Documents\\P1Solution\\P1Solution\\P1Solution.csproj",
+              "RelativeDocumentMoniker": "P1Solution\\P1Solution.csproj",
+              "ToolTip": "D:\\Documents\\P1Solution\\P1Solution\\P1Solution.csproj",
+              "RelativeToolTip": "P1Solution\\P1Solution.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T04:18:57.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

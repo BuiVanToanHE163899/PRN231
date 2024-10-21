@@ -1,0 +1,22 @@
+﻿    @page
+@using Q2.Models;
+@model Q2.Pages.Movie.IndexModel
+@{
+    var movie = ViewData["movie"] as Movie;
+    var stars = ViewData["stars"] as List<MovieStar>;
+}
+
+
+    <p style="font-weight: bold; font-size: 50px; margin-bottom: 20px;">Movie's info</p>
+        <span style="font-weight: bold;">Title:</span> @movie.Title <br>
+        <span style="font-weight: bold;">Year:</span> @movie.Year<br>
+        <span style="font-weight: bold;">Description:</span> @movie.Description<br>
+        <span style="font-weight: bold;">Director:</span> @movie.Director.Name<br>
+        <span style="font-weight: bold;">Stars:</span><br>
+        <ul style="margin-top: 5px; padding-left: 40px; list-style-type:none">
+            @foreach(var s in stars)
+            {
+                <li>@s.Star.Name (@s.Position)</li>
+            }
+        </ul>
+

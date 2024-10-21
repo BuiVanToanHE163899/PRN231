@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|d:\\prn231\\pe_prn231_trial_su23\\paperno_1\\all\\petrial\\pages\\directors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|solutionrelative:pages\\directors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|d:\\prn231\\pe_prn231_trial_su23\\paperno_1\\all\\petrial\\controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|solutionrelative:controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|d:\\prn231\\pe_prn231_trial_su23\\paperno_1\\all\\petrial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|d:\\prn231\\pe_prn231_trial_su23\\paperno_1\\all\\petrial\\models\\pe_prn_fall22b1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|solutionrelative:models\\pe_prn_fall22b1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|d:\\prn231\\pe_prn231_trial_su23\\paperno_1\\all\\petrial\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|solutionrelative:models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|d:\\prn231\\pe_prn231_trial_su23\\paperno_1\\all\\petrial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|d:\\prn231\\pe_prn231_trial_su23\\paperno_1\\all\\petrial\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|d:\\prn231\\pe_prn231_trial_su23\\paperno_1\\all\\petrial\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|solutionrelative:models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|d:\\prn231\\pe_prn231_trial_su23\\paperno_1\\all\\petrial\\models\\directordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|solutionrelative:models\\directordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|d:\\prn231\\pe_prn231_trial_su23\\paperno_1\\all\\petrial\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|d:\\prn231\\pe_prn231_trial_su23\\paperno_1\\all\\petrial\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727201D9-56D9-45F4-A7FD-FC77F5B56224}|PETrial.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:10:06.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Models\\Producer.cs",
+              "RelativeDocumentMoniker": "Models\\Producer.cs",
+              "ToolTip": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Models\\Producer.cs",
+              "RelativeToolTip": "Models\\Producer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:47:14.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "directors.html",
+              "DocumentMoniker": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Pages\\directors.html",
+              "RelativeDocumentMoniker": "Pages\\directors.html",
+              "ToolTip": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Pages\\directors.html",
+              "RelativeToolTip": "Pages\\directors.html",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-07T06:24:55.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Director.cs",
+              "DocumentMoniker": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Models\\Director.cs",
+              "RelativeDocumentMoniker": "Models\\Director.cs",
+              "ToolTip": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Models\\Director.cs",
+              "RelativeToolTip": "Models\\Director.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:24:55.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DirectorDTO.cs",
+              "DocumentMoniker": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Models\\DirectorDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DirectorDTO.cs",
+              "ToolTip": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Models\\DirectorDTO.cs",
+              "RelativeToolTip": "Models\\DirectorDTO.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwBIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:24:55.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DirectorController.cs",
+              "DocumentMoniker": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Controllers\\DirectorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DirectorController.cs",
+              "ToolTip": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Controllers\\DirectorController.cs",
+              "RelativeToolTip": "Controllers\\DirectorController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAswF0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:24:55.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T06:24:55.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PE_PRN_Fall22B1Context.cs",
+              "DocumentMoniker": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Models\\PE_PRN_Fall22B1Context.cs",
+              "RelativeDocumentMoniker": "Models\\PE_PRN_Fall22B1Context.cs",
+              "ToolTip": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Models\\PE_PRN_Fall22B1Context.cs",
+              "RelativeToolTip": "Models\\PE_PRN_Fall22B1Context.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwB4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:24:55.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T06:24:55.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:24:55.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "D:\\PRN231\\PE_PRN231_Trial_Su23\\PaperNo_1\\All\\PETrial\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:24:55.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

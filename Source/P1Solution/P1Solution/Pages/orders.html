@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content=" width=device-width" />
+    <title>All Product</title>
+    <link href="lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="lib/jquery/dist/jquery.js"></script>
+    <style>
+        table a, table img {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <h2>List Orders</h2>
+        <form style="display: flex; gap:10px">
+            <input id="fromdate" class="from-control" placeholder="From date" />
+            <input id="todate" class="from-control" placeholder="To date" />
+            <button id="btnsearch" class="btn btn-primary">Search</button>
+        </form>
+
+        <div id="divdelete">
+        </div>
+        <div id="divwrap">
+
+        </div>
+
+
+        <table class="table table-sm table-striped table-bordered m-2">
+            <thead>
+                <tr>
+                    <th>OrderId</th>
+                    <th>CustomerId</th>
+                    <th>CustomerName</th>
+                    <th>EmployeeId</th>
+                    <th>EmployeeName</th>
+                    <th>EmployeeDepartmentName</th>
+                    <th>OrderDate</th>
+                    <th>Freight</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+    <script type="text/javascript">
+         $(document).ready(function () {
+             ShowAllReservation();
+             function ShowAllReservation() {
+                 $("tbody").empty();
+                    $("table tbody").html("");
+                    $.ajax({
+                        url: "http://localhost:5000/api/Order/GetAllOrder",
+                        type: "get",
+                        contentType: "application/json",
+                        success: function (result, status, xhr) {
+                            $.each(result, function (index, value) {
+                                $("tbody").append($("<tr>"));
+                                appendElement = $("tbody tr").last();
+                                appendElement.append($("<td>").html(value["orderId"]));
+                                appendElement.append($("<td>").html(value["customerId"]));
+
+                                $data = value["customerName"] + "  <a href=\"#\" class=\"btnDelete\">Delete Customer</a>"
+                                appendElement.append($("<td>").html($data));
+                                appendElement.append($("<td>").html(value["employeeId"]));
+                                appendElement.append($("<td>").html(value["employeeName"]));
+                                appendElement.append($("<td>").html(value["employeeDepartmentName"]));
+                                appendElement.append($("<td>").html(value["orderDate"]));
+                                appendElement.append($("<td>").html(value["freight"]));
+
+                            });
+                        },
+                        error: function (xhr, status, error) {
+                            console.log(xhr)
+                        }
+                    });
+                }
+                $("table").on("click", "a.btnDelete", function () {
+                    var reservationId = $(this).parents("tr").find("td:nth-child(2)").text();
+                    $("#divdelete").empty();
+                    $.ajax({
+                        url: "http://localhost:5000/api/Customer/Delete/" + reservationId,
+                        type: "POST",
+                        contentType: "application/json",
+                        success: function (result, status, xhr) {
+                            $del = "You have deleted " + result.customerDeletedCount + " customer(s),"
+                                + result.orderDeletedCount + "   order(s), "
+                                + result.orderDetailDeletedCount + " order detail(s)."
+                            $("#divdelete").append($("<td>").html($del));
+                            ShowAllReservation();
+                        },
+                        error: function (xhr, status, error) {
+                            console.log(xhr)
+                        }
+                    });
+                });
+             $("#btnsearch").on("click", function () {
+                 $("tbody").empty();
+                 $("#divdelete").empty();
+                    var reservationId = $(this).parents("tr").find("td:nth-child(2)").text();
+                    $.ajax({
+                        url: "http://localhost:5000/api/Order/getorderbydate/" + $('#fromdate').val() + "/" + $('#todate').val(),
+                        type: "GET",
+                        contentType: "application/json",
+                        success: function (result, status, xhr) {
+                            $.each(result, function (index, value) {
+                                $("tbody").append($("<tr>"));
+                                appendElement = $("tbody tr").last();
+                                appendElement.append($("<td>").html(value["orderId"]));
+                                appendElement.append($("<td>").html(value["customerId"]));
+
+                                $data = value["customerName"] + "  <a href=\"#\" class=\"btnDelete\">Delete Customer</a>"
+                                appendElement.append($("<td>").html($data));
+
+                                appendElement.append($("<td>").html(value["employeeId"]));
+                                appendElement.append($("<td>").html(value["employeeName"]));
+                                appendElement.append($("<td>").html(value["employeeDepartmentName"]));
+                                appendElement.append($("<td>").html(value["orderDate"]));
+                                appendElement.append($("<td>").html(value["freight"]));
+
+                            });
+                        },
+                        error: function (xhr, status, error) {
+                            console.log(xhr)
+                        }
+                    });
+                });
+
+            });
+    </script>
+</body>
+</html>
